@@ -6,7 +6,7 @@ An online store-front designed for ease-of-use, giving users the ability create 
 
 # Usage
 
-![ScreenShot of Current Active Webpage 2](./assets/shopshop.png)
+![ScreenShot of Current Active Webpage 2](./client/src/assets/shopshop.png)
 
 https://dwalsh93.github.io/shop-shop-project22/
 
