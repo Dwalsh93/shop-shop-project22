@@ -14,3 +14,5 @@ https://dwalsh93.github.io/shop-shop-project22/
 Creator: Dillon Walsh
 Email: Dillonwalsh93@gmail.com
 GitHub: https://github.com/Dwalsh93/shop-shop-project22  
+
+Thanks!
